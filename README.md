@@ -9,9 +9,17 @@
   </p>
 </div>
 
-<hr />
 
-## 📖 Sobre Mí & El Curso
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">📖 Sobre Mí & El Curso</h2></summary>
+  </ul>
+</div>
 
 Actualmente me estoy capacitando en el **Curso de Programación e Inteligencia Artificial**, una excelente iniciativa dictada por **Plataforma 5** y financiada por la **Fundación Ayudar a Soñar**. 
 
@@ -21,9 +29,13 @@ Mi objetivo es absorber todos los conocimientos posibles entre **Agosto y Noviem
 * 💡 **Sponsor:** Fundación Ayudar a Soñar
 * 📅 **Cursada:** Martes y Viernes (17:00 a 19:00 hs)
 
-<hr />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🛠️ Tecnologías
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">🛠️ Tecnologías</h2></summary>
+  </ul>
+</div>
 
 <details>
   <summary><b>📄 HTML5</b></summary>
@@ -100,16 +112,21 @@ Mi objetivo es absorber todos los conocimientos posibles entre **Agosto y Noviem
   </table>
 </details>
 
-<hr />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 📈 Mi Camino
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">📈 Mi Camino</h2></summary>
+  </ul>
+</div>
 
 - [x] **Julio:** Charla informativa obligatoria (Martes 7). 📢
 - [ ] **Agosto:** ¡Inicio oficial del curso! 🏁
 - [ ] **Septiembre:** Primeros proyectos integradores de maquetación. 💻
 - [ ] **Noviembre:** Entrega del proyecto final y graduación. 🎓
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <div align="center">
   <sub>Organizado y respaldado por <b>Fundación Ayudar a Soñar</b> & <b>Plataforma 5</b> ✨</sub>
 </div>
