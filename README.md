@@ -6,9 +6,6 @@
     <a href="https://www.linkedin.com/in/tu_usuario" target="_blank" style="margin: 0 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn" />
     </a>
-    <a href="mailto:tu-correo@email.com" style="margin: 0 10px;">
-      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail" />
-    </a>
   </p>
 </div>
 
